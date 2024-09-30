@@ -3,7 +3,7 @@ function insert(value){
 }
 
 function clearScreen(){
-    document.getElementById('screen').value = ''
+    document.getElementById('screen').value = '';
 }
 
 function calculate(){
